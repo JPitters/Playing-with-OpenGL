@@ -1,0 +1,12 @@
+﻿  Starter_Class.cpp
+  SceneNode.cpp
+c:\users\jpitters\downloads\completed__scenegraph_version_one\opengl_scene_node_implementation_version_one\opengl_starter_kit\scenenode.cpp(94): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Compiling...
+  Triangle.cpp
+  Tank_Group.cpp
+  Tank.cpp
+  Square.cpp
+  Generating Code...
+  OpenGL_Starter_Kit.vcxproj -> C:\Users\JPITTERS\Downloads\Completed__SceneGraph_version_one\OpenGL_Scene_Node_Implementation_version_one\Debug\OpenGL_Starter_Kit.exe
+  OpenGL_Starter_Kit.vcxproj -> C:\Users\JPITTERS\Downloads\Completed__SceneGraph_version_one\OpenGL_Scene_Node_Implementation_version_one\Debug\OpenGL_Starter_Kit.pdb (Partial PDB)
